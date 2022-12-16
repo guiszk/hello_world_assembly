@@ -7,6 +7,8 @@ Assembly program to output `hello, world!` to tty.
 
 MacOS: install `nasm` and `truncate` to compile, `qemu` to run.
 
+Create a directory called build with `mkdir build`.
+
 Run `make` to compile.
 
 Run with qemu:
